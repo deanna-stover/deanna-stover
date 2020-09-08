@@ -6,9 +6,11 @@ My ultimate goal is to work in publishing. I've already worked as an Editor of t
 
 For the last year, I have worked as a Print Designer for *Emeritus Voices*, a literary journal published through the Emeritus College at ASU. As a print designer, I've learned a lot about the design that goes into readying publications. I have experience working with Adobe InDesign and Illustrator.
 
-I've also written several articles for the Department of English at ASU as part of my other current job as the Public Relations Intern, including ["To Canterbury Town: Celebrating Chaucer at ASU"](https://asunow.asu.edu/content/canterbury-town-celebrating-chaucer-asu). Writing journalism pieces has been an important part of better understanding different genres of writing, specifically when it comes to print versus web-based venues. 
+I've also written several articles for the Department of English at ASU as part of my other current job as the Public Relations Intern, including ["To Canterbury Town: Celebrating Chaucer at ASU."](https://asunow.asu.edu/content/canterbury-town-celebrating-chaucer-asu) Writing journalism pieces has been an important part of better understanding different genres of writing, specifically when it comes to print versus web-based venues. 
 
-Now that I am a senior, I am taking graduate-level classes in scholarly editing. These courses focus on nonfiction academic works and I've become very familiar with the Chicago style guide. My various experiences in publishing, from fiction to nonfiction to journalism, have helped to prepare me for variety of opportunities. I am excited for what comes next.
+Now that I am a senior, I am taking graduate-level classes in scholarly editing. These courses focus on nonfiction academic works and I've become very familiar with the Chicago style guide. 
+
+My various experiences in publishing, from fiction to nonfiction to journalism, have helped to prepare me for variety of opportunities. I am excited for what comes next.
 
 Volunteering is also really important to me, and I've spent over 1000 hours working as a Peer Leader at ORHO: Workshops for Youth and Families (now [Youth Rising](https://youthrisingaz.org/)). In this role, I mentor children and young adults who are struggling with personal issues and need a safe space. It's been an enlightening experience, and I've learned a lot about how to better communicate and deal with conflict.
 
