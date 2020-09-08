@@ -12,7 +12,9 @@ Now that I am a senior, I am taking graduate-level classes in scholarly editing.
 
 Volunteering is also really important to me, and I've spent over 1000 hours working as a Peer Leader at ORHO: Workshops for Youth and Families (now [Youth Rising](https://youthrisingaz.org/)). In this role, I mentor children and young adults who are struggling with personal issues and need a safe space. It's been an enlightening experience, and I've learned a lot about how to better communicate and deal with conflict.
 
-I have a senior dog named Pearl and I love to read in my spare time. 
+I have a senior dog named Pearl and I love to read in my spare time--I especially enjoy Victorian Literature. I've travelled to over twenty countries and find joy in getting to experience other cultures . . . although there was that one time I was tear gassed in Equador. But that's a story for another time.
+
+![Girl smiling with dog](
 
 
 
