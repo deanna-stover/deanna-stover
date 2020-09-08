@@ -1,5 +1,7 @@
 # My name is Deanna Stover . . .
 
+![Girl smiling in front of a painted question mark](https://deanna-stover.github.io/deanna-stover/images/questionmark.jpg)
+
 . . . and I am working towards my BA in English Literature with a Classical Studies Certificate in Latin from Arizona State University.
 
 My ultimate goal is to work in publishing. I've already worked as an Editor of the student-run magazine, *Marooned Undergraduate Creative Review*. In addition to working with authors, I helped with marketing and layout. I also had an amazing opportunity to study abroad in London, England. While there, I served as a marketing intern for [Reaktion Books](http://www.reaktionbooks.co.uk/). 
@@ -15,9 +17,6 @@ My various experiences in publishing, from fiction to nonfiction to journalism, 
 Volunteering is also really important to me, and I've spent over 1000 hours working as a Peer Leader at ORHO: Workshops for Youth and Families (now [Youth Rising](https://youthrisingaz.org/)). In this role, I mentor children and young adults who are struggling with personal issues and need a safe space. It's been an enlightening experience, and I've learned a lot about how to better communicate and deal with conflict.
 
 I have a senior dog named Pearl and I love to read in my spare time--I especially enjoy Victorian Literature. I've travelled to over twenty countries and find joy in getting to experience other cultures . . . although there was that one time I was accidentally tear gassed in Equador when I was twelve. But that's a story for another time.
-
-![Girl smiling in front of a painted question mark](https://deanna-stover.github.io/deanna-stover/images/questionmark.jpg)
-
 
 
 
