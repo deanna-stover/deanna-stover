@@ -12,7 +12,7 @@ I've also written several articles for the Department of English at ASU as part 
 
 Now that I am a senior, I am taking graduate-level classes in scholarly editing. These courses focus on nonfiction academic works and I've become very familiar with the Chicago style guide. 
 
-I have exerpience in publishing ranging from fiction to nonfiction to journalism, helping to prepare me for variety of opportunities. I am excited for what comes next.
+I have experience in publishing ranging from fiction to nonfiction to journalism, helping to prepare me for variety of opportunities. I am excited for what comes next.
 
 Volunteering is also really important to me, and I've spent over 1000 hours working as a Peer Leader at ORHO: Workshops for Youth and Families (now [Youth Rising](https://youthrisingaz.org/)). In this role, I mentor children and young adults who are struggling with personal issues and need a safe space. It's been an enlightening experience, and I've learned a lot about how to better communicate and deal with conflict.
 
