@@ -16,7 +16,7 @@ I have experience in publishing ranging from fiction to nonfiction to journalism
 
 Volunteering is also really important to me, and I've spent over 1000 hours working as a Peer Leader at ORHO: Workshops for Youth and Families (now [Youth Rising](https://youthrisingaz.org/)). In this role, I mentor children and young adults who are struggling with personal issues and need a safe space. It's been an enlightening experience, and I've learned a lot about how to better communicate and deal with conflict.
 
-I have a senior dog named Pearl and I love to read in my spare time--I especially enjoy Victorian Literature. I've travelled to over twenty countries and find joy in getting to experience other cultures . . . although there was that one time I was accidentally tear gassed in Equador when I was twelve. But that's a story for another time.
+I have a senior dog named Pearl and I love to read in my spare time--I especially enjoy Victorian Literature. I've travelled to over twenty countries and find joy in getting to experience other cultures . . . although there was that one time I was accidentally tear gassed in Ecuador when I was twelve. But that's a story for another time.
 
 
 
