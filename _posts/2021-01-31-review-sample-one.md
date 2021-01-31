@@ -8,7 +8,7 @@
 
 ## *Reviewed By*: Elissa Mena
 
-![Picture of Musical Passage Homepage](
+![Picture of Musical Passage Homepage](https://deanna-stover.github.io/deanna-stover/images/MP1.jpg)
 
 ### *Summary*
 
@@ -34,4 +34,4 @@ The songs included on the page that can be played are full-length and clear, but
 
 Overall, the project is well informed and put together. I feel as though it does a great job of teaching one about the musical influences enslaved peoples had on history both abroad and in the New World.
 
-![Picture of Explore Page](
+![Picture of Explore Page](https://deanna-stover.github.io/deanna-stover/images/MP2.jpg)
