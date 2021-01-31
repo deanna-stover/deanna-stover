@@ -8,6 +8,8 @@
 
 ## *Reviewed By*: Elissa Mena
 
+![Picture of Musical Passage Homepage](
+
 ### *Summary*
 
 *Musical Passage: A Voyage to 1688 Jamaica* is an exploration of Englishman and physician, Hans Sloane's discoveries while traveling to and living in Jamaica in the 1700s. His dedication to the study and preservation of the numerous cultures he explored over his twenty years of travel lead to the publication of his own book. The book and its subsequent volumes contain his findings of Caribbean history, engravings, ecology, and wildlife. The project's directors aim for the project is to introduce th ereader to some of the first known and earliers transcriptions of music which was created and performed by African slaves and survivors of the Middle Passage.
@@ -24,3 +26,12 @@ The project does a great job of utilzing innovation and technology ot translate 
 
 In its Acknowledgements section, the projecct quotes having been reviewed and published in the inaugural issued of SX Archipelagos, a digital wing of the Small Axe Project. They credit funding jointly to the Franklin Humanities Institute and the Form for Scholars and Publics. Images and other visual aids were provided by the Rubenstein Rare Book & Manuscript Library at Duke University. Music samples and notations of Hans Sloane were contributed by Rich Rath, via his musical library *EthnoDigital Sonics Meets Maker Culture in Seventeenth-Century Jamaica*.
 
+### *Findings*
+
+*Musical Passage: A Voyage to 1688 Jamaica* does an excellent job of merging history and technology in a user-friendly yet visually appealing way. I enjoyed exploring the musical works and images on the pages and how flawlessly the site moved through its design. It made great use of subsections (*Explore, Read,* and *About*) but could've benefited from grouping the larger passages of texts with subheadings so the reader was better informed on what they were reading. On the *Explore* tab, the images are interactive but a ledget containing the instructions on what the reader is viewing, what to click on, and what parts of the page are interactive would be very useful.
+
+The songs included on the page that can be played are full-length and clear, but you can not exit the audio or select a different song to listen to until the one you are currently listening to had finished playing. The images throughout the pages are insightful and privy to the text but could use captions so that the reader knows what part of the text the image correlates with. 
+
+Overall, the project is well informed and put together. I feel as though it does a great job of teaching one about the musical influences enslaved peoples had on history both abroad and in the New World.
+
+![Picture of Explore Page](
