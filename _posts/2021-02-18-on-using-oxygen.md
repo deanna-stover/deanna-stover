@@ -6,7 +6,7 @@ For this assignment, I was given the second column of page 649 of Charlotte Perk
 
 After being assigned our individual sections, we each had accesss to a Google Doc with our text copied into it. There, we marked things like where paragraphs started, any quotations, italics, em-dashes, and even images. I was really thankful to only have paragraph markers, dialogue, and one instance where a word was italicised in my reading, so I wasn’t overly confused about what I needed to be marking in this section of the project.
 
-!
+![Google Doc with comments describing textual features](https://deanna-stover.github.io/deanna-stover/images/screenshot-of-google-doc.png)
 
 Further, by going through and marking each thing that I would be coding later, it really helped to break down what I needed to do once I started working in Oxygen. Looking at my Doc, I felt a lot less overwhelmed, and the coding aspect seemed a lot less daunting.
 
@@ -20,6 +20,6 @@ Another aspect of using Oxygen is the XML tags. While this was new to a lot of s
 
 This background experience was super helpful in coding in Oxygen, even though I had never used a coding program before. Still, I knew about the logistics of tagging, like to always remember to have the closing tag and to include all of my text within the body tag. However, this experience only helped me understand what I was doing. There were tags that I had to use that I had never used before, like the quotation and italics tags, so I was still alert as I was typing everything out to make sure that I was doing everything correctly.
 
-!
+![Oxygen XML editor with code](https://deanna-stover.github.io/deanna-stover/images/screensht-of-oxygen-code.png)
 
 Despite my struggles with the various moving parts of this project, I am really enjoying it. I feel like working in Oxygen with TEI has given me a lot of experience that I might be able to apply to a future career down the road. I am definitely still learning, but I feel a lot more comfortable with coding now than I did going in. Hopefully, we will have more opportunities to work in Oxygen and learn more about it!
