@@ -23,3 +23,5 @@ This background experience was super helpful in coding in Oxygen, even though I 
 ![Oxygen XML editor with code](https://deanna-stover.github.io/deanna-stover/images/screenshot-of-oxygen-code.png)
 
 Despite my struggles with the various moving parts of this project, I am really enjoying it. I feel like working in Oxygen with TEI has given me a lot of experience that I might be able to apply to a future career down the road. I am definitely still learning, but I feel a lot more comfortable with coding now than I did going in. Hopefully, we will have more opportunities to work in Oxygen and learn more about it!
+
+-Caroline Ernst
