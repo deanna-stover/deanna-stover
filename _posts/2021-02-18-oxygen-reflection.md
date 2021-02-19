@@ -12,7 +12,7 @@ The concept of coding can be pretty daunting, and I’ve heard horror stories fr
 
 The only part I struggled with was the italics tag. Whenever I entered the tag that was given to me, Oxygen underlined my portion in red, signaling that my code was invalid. When I brought this up to my professor, she sent me a code that looked identical to the one I was using. Hers worked, however, and I’m still not sure why. My guess is that I was accidentally adding or removing a necessary character from the tag, without realizing it.
 
-!
+![Oxygen XML editor with code](https://deanna-stover.github.io/deanna-stover/images/XMLSS.png)
 
 As much as I enjoyed the coding process, my seven year old laptop definitely did not. It crashed right as I was finishing my code, and took over an hour to restart. Thankfully, I’ve learned to save my file as I work on it, so not too much was lost. However, my laptop decided not to save my coded portion of “The Yellow Wall-paper” as any type of file extension. All the programs I’ve ever used have saved my files automatically with something at the end like .pdf or .png, but Oxygen didn’t save it as anything. When I checked my saved files, my code came up as a “MAUCK Document,” because I saved my file as “pg655.2.Mauck.” I managed to save it it’s the correct form eventually, but my laptop definitely did not make it easy.
 
