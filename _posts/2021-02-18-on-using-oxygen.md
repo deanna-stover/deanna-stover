@@ -20,6 +20,6 @@ Another aspect of using Oxygen is the XML tags. While this was new to a lot of s
 
 This background experience was super helpful in coding in Oxygen, even though I had never used a coding program before. Still, I knew about the logistics of tagging, like to always remember to have the closing tag and to include all of my text within the body tag. However, this experience only helped me understand what I was doing. There were tags that I had to use that I had never used before, like the quotation and italics tags, so I was still alert as I was typing everything out to make sure that I was doing everything correctly.
 
-![Oxygen XML editor with code](https://deanna-stover.github.io/deanna-stover/images/screensht-of-oxygen-code.png)
+![Oxygen XML editor with code](https://deanna-stover.github.io/deanna-stover/images/screenshot-of-oxygen-code.png)
 
 Despite my struggles with the various moving parts of this project, I am really enjoying it. I feel like working in Oxygen with TEI has given me a lot of experience that I might be able to apply to a future career down the road. I am definitely still learning, but I feel a lot more comfortable with coding now than I did going in. Hopefully, we will have more opportunities to work in Oxygen and learn more about it!
