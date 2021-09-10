@@ -6,8 +6,6 @@
 
 ## *Project UR*L: [http://www.musicalpassage.org/](http://www.musicalpassage.org/)
 
-## *Reviewed By*: Elissa Mena
-
 ![Picture of Musical Passage Homepage](https://deanna-stover.github.io/deanna-stover/images/MP1.jpg)
 
 ### *Summary*
