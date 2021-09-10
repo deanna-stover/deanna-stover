@@ -14,6 +14,8 @@ Each text has a detailed page with extra information about the text and the arti
 
 The formatting of the texts themselves are somewhat challenging to read. Both the in-browser and PDF versions have very condensed text with little spaces or gaps between lines. If they were to have more distinct spaces between individual lines, especially between different characters speaking, the texts would be much easier to both skim and read thoroughly. There are occasional formatting issues throughout, as certain lines will run off the page into the background, though they only seem to occur a few times per play at most.
 
+![Text running off the page in Dido, Queen of Carthage](https://deanna-stover.github.io/deanna-stover/images/Dido.jpg)
+
 The project as a whole is supported by both a user guide and a FAQ, which are both easily found within the website. The are catered toward multiple levels of experience, ranging from complete novices to scholars. This, combined with the well-crafted layouts of the site, make navigation quite simple overall.
 
 The “Featured Plays” link in the header does wonders for keeping the site accessible for the average viewer. With over 400 plays and multiple file formats, it would be easy to get overwhelmed, so this option provides a convenient starting point. However, finding the complete list of texts is convoluted, so an “All Plays” button in the header as well would be very useful. A feature such as that would benefit both new audiences (to make searching less discouraging) and scholars (who may need to find more obscure plays quickly).
