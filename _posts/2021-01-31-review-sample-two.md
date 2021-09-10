@@ -3,7 +3,6 @@
 Project: *A Digital Anthology of Early Modern English Drama* <br />
 Project Director: Kathleen Lynch <br />
 Project URL: [https://earlymodernenglishdrama.folger.edu/](https://earlymodernenglishdrama.folger.edu/) <br />
-Reviewer: Madison Ferris <br />
 
 ![A screenshot of the EMED home page](https://deanna-stover.github.io/deanna-stover/images/FolgerScreenshot.png)
 
