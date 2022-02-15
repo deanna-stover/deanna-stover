@@ -6,7 +6,7 @@ For this assignment, I was given the second column of page 649 of Charlotte Perk
 
 After being assigned our individual sections, we each had accesss to a Google Doc with our text copied into it. There, we marked things like where paragraphs started, any quotations, italics, em-dashes, and even images. I was really thankful to only have paragraph markers, dialogue, and one instance where a word was italicised in my reading, so I wasn’t overly confused about what I needed to be marking in this section of the project.
 
-![Google Doc with comments describing textual features](https://deanna-stover.github.io/deanna-stover/images/screenshot-of-google-doc.png)
+(Note that there would be an image of the Google Doc activity "TEI on Paper" here, but I have taken this out to preserve anonymity.)
 
 Further, by going through and marking each thing that I would be coding later, it really helped to break down what I needed to do once I started working in Oxygen. Looking at my Doc, I felt a lot less overwhelmed, and the coding aspect seemed a lot less daunting.
 
@@ -23,5 +23,3 @@ This background experience was super helpful in coding in Oxygen, even though I 
 ![Oxygen XML editor with code](https://deanna-stover.github.io/deanna-stover/images/screenshot-of-oxygen-code.png)
 
 Despite my struggles with the various moving parts of this project, I am really enjoying it. I feel like working in Oxygen with TEI has given me a lot of experience that I might be able to apply to a future career down the road. I am definitely still learning, but I feel a lot more comfortable with coding now than I did going in. Hopefully, we will have more opportunities to work in Oxygen and learn more about it!
-
--Caroline Ernst
