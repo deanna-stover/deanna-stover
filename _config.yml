@@ -13,7 +13,6 @@ description: A Sample Blog for ENGL 350
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-remote-theme
 
 # Exclude these files from your production _site
 exclude:
@@ -23,5 +22,5 @@ exclude:
   - README.md
   - CNAME
 
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: minima
 
