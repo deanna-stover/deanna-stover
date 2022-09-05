@@ -22,5 +22,3 @@ exclude:
   - README.md
   - CNAME
 
-remote_theme: minima
-
